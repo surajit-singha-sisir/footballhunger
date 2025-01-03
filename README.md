@@ -1,2 +1,24 @@
-THE THEME BANGALI NEWPAPER IS DEVELOPED BI SURAJIT SINGHA SISIR.
-THIS ePORTAL IS UNDER LICENSE APACHE 2.0. THAT MEANS U CAN'T COPY THIS THEME WITHOUT PERMISSION.
+# footballhunger
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
