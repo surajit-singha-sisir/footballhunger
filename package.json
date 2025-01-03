@@ -4,7 +4,7 @@
   "description": "THE THEME BANGALI NEWPAPER IS DEVELOPED BI SURAJIT SINGHA SISIR.\r THIS ePORTAL IS UNDER LICENSE APACHE 2.0. THAT MEANS U CAN'T COPY THIS THEME WITHOUT PERMISSION.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'No build step needed for static files!'"
   },
   "repository": {
     "type": "git",
