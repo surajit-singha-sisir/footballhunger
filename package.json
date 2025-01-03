@@ -1,0 +1,21 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "THE THEME BANGALI NEWPAPER IS DEVELOPED BI SURAJIT SINGHA SISIR.\r THIS ePORTAL IS UNDER LICENSE APACHE 2.0. THAT MEANS U CAN'T COPY THIS THEME WITHOUT PERMISSION.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajit-singha-sisir/footballhunger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/surajit-singha-sisir/footballhunger/issues"
+  },
+  "homepage": "https://github.com/surajit-singha-sisir/footballhunger#readme"
+}
